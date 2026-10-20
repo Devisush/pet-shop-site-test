@@ -17,9 +17,8 @@
 my-web-site/
 │
 ├── index.html
+├── catalog.html
 ├── about.html
-
-├── blog.html
 ├── css/
 │   └── style.css
 │
